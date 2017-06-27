@@ -8,15 +8,15 @@
                 <div class="item-wrapper">
                     <div class="img-wrapper">
                         <a class="button expanded add-to-cart">
-                            Add to Cart
+                            Adicionar no carrinho
                         </a>
                         <a href="#">
                             <img src="http://i.imgur.com/Mcw06Yt.png"/>
                         </a>
                     </div>
-                    <a href="shirt.html">
+                    <a href="{{route('shirt')}}">
                         <h3>
-                            Kickin with Kraken Tee
+                            clique
                         </h3>
                     </a>
                     <h5>
@@ -37,9 +37,9 @@
                             <img src="http://i.imgur.com/Mcw06Yt.png"/>
                         </a>
                     </div>
-                    <a href="#">
+                    <a href="{{route('shirt')}}">
                         <h3>
-                            Kickin with Kraken Tee
+                            clique aqui
                         </h3>
                     </a>
                     <h5>
